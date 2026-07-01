@@ -1,28 +1,16 @@
-# Project Name
+# Hi, I'm Priyanka 👋
 
-One-line description of what it does and who it's for.
+Frontend Developer (4+ yrs) building fast, clean UIs with **React.js, Next.js & TypeScript**. Currently at **MetaApply**, Noida.
 
-🔗 **Live demo:** [link] &nbsp;|&nbsp; 📹 **Screenshot/GIF:** below
+- 🔭 Building: AI chatbot frontends, CMS-driven platforms, booking systems
+- 🛠️ Stack: React.js · Next.js · TypeScript · JavaScript · Tailwind CSS · Strapi CMS · REST APIs · WordPress
+- 🎯 Open to: Frontend Developer / SDE-II roles (Noida · Delhi NCR · Gurugram · Remote) — immediate joiner
+- 🌐 Portfolio: [priyanka0310-byte.github.io/Portfolio2026](https://priyanka0310-byte.github.io/Portfolio2026/)
+- 📫 Reach me: [LinkedIn link] · [email]
 
+### Featured Projects
+- **MetaApply Career Counselling Platform** — React/Next.js platform for career guidance
+- **AI Chatbot Frontend Integration** — Chat UI integrated with AI backend
+- **Scadlr Event Management System** — Full event management app
+- **Ticket Booking System** — WordPress plugin-based booking platform for entertainment clients
 
-## Features
-- Feature 1
-- Feature 2
-- Feature 3
-
-## Tech Stack
-React.js / Next.js · TypeScript · Tailwind CSS · Strapi CMS / REST API
-
-## What I built
-2-3 lines: your specific contribution, a tricky problem solved, or an architecture decision.
-
-## Run locally
-```bash
-git clone <repo-url>
-cd project-folder
-npm install
-npm run dev
-```
-
-## Author
-Priyanka Verma — [LinkedIn] · [Portfolio]
