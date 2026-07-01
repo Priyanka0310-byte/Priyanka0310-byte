@@ -4,7 +4,6 @@ One-line description of what it does and who it's for.
 
 🔗 **Live demo:** [link] &nbsp;|&nbsp; 📹 **Screenshot/GIF:** below
 
-![screenshot](link-to-screenshot.png)
 
 ## Features
 - Feature 1
