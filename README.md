@@ -1,10 +1,29 @@
-- 👋 Hi, I’m @Priyanka0310-byte
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Project Name
 
-<!---
-Priyanka0310-byte/Priyanka0310-byte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes..
---->
+One-line description of what it does and who it's for.
+
+🔗 **Live demo:** [link] &nbsp;|&nbsp; 📹 **Screenshot/GIF:** below
+
+![screenshot](link-to-screenshot.png)
+
+## Features
+- Feature 1
+- Feature 2
+- Feature 3
+
+## Tech Stack
+React.js / Next.js · TypeScript · Tailwind CSS · Strapi CMS / REST API
+
+## What I built
+2-3 lines: your specific contribution, a tricky problem solved, or an architecture decision.
+
+## Run locally
+```bash
+git clone <repo-url>
+cd project-folder
+npm install
+npm run dev
+```
+
+## Author
+Priyanka Verma — [LinkedIn] · [Portfolio]
